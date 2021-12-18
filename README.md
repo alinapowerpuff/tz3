@@ -131,4 +131,5 @@ def test_getSum():
 def test_vspiskeestnol():
     assert vspiskeestnol([1, 2, 3, 4, 5, 0]) == True
     assert vspiskeestnol([0.1212, 541.424, 12122.3356]) == False
-    ```
+
+```
